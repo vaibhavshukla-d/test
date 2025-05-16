@@ -3,4 +3,4 @@ passs
 
 test
 
-test line 6
+merge conflict text
